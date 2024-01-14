@@ -1,0 +1,7 @@
+Use a 4 step model to diagnose the problems underlying the issue faced by your organisation.
+Don't forget about the importance of existing key capabilities.
+Solutions always involve trade offs.
+$Flexibility risk
+$Trade off risk
+$Implementation risk
+The implementation process might be more complex and expensive than anticipated.
