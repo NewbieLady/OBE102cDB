@@ -1,12 +1,12 @@
 Physiological
 Involve people in setting their own goals
 Goals, feedback on achievement of goals, self-efficacy,  reward
-$Task significance
-$Skill variety
-$Autonomy
-$Expectancy
-$Valance
-$Instrumentality
+Task significance
+Skill variety
+Autonomy
+Expectancy
+Valance
+Instrumentality
 Expectancy
 Something can be a dissatisfier or a motivator, based on our perception
 Valence
